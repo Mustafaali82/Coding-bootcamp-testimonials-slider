@@ -93,5 +93,5 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 # Github Link
 
-** Published Link**
+**Published Link**
  https://mustafaali82.github.io/Coding-bootcamp-testimonials-slider/

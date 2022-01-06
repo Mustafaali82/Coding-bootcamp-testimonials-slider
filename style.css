@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+.swiper{
+    width: 100vw;
+    height: 100vh;
+}
+
+.tanya{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  width: 100rem !important;
+} 
+
+.john{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  width: 100rem  !important;
+}
+
+
+.img1{
+width: 470px;
+}
+
+.img2{
+  position: absolute;
+  width: 382px;
+  margin-left: -420px;
+  margin-top: 65px;
+  height: 360px;
+}
+
+
+.heading-section{
+  background-image: url(images/pattern-quotes.svg);
+  background-repeat: no-repeat;
+  font-family: 'Inter', sans-serif;
+}
+
+.swiper-slide{
+  flex-shrink: 0;
+  width: 109% !important;
+  height: 100%;
+  position: relative;
+  transition-property: transform;
+}
+
+p{
+  font-size: 22px;
+    width: 439px;
+    color: grey;
+    line-height: 30px;
+    position: relative;
+    left: -42px;
+    top: 32px;
+}
+
+h2{
+  position: relative;
+    left: -41px;
+    top: 47px;
+    font-size: 18px;
+}
+
+span{
+  font-weight: 400;
+  margin-left: 16px;
+  color: lightgray;
+}
+
+.t1{
+ margin-left: 131px;
+    position: relative;
+    left: 84px;
+}
+
+.j1{
+  position: relative;
+  left: 98px;
+}
